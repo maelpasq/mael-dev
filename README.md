@@ -1,1 +1,1 @@
-"# mael-dev" 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ed73a80-2a87-429b-9936-e1e2dac7b96c/deploy-status)](https://app.netlify.com/sites/mael-development/deploys)
